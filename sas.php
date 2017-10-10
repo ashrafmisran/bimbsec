@@ -1,0 +1,7 @@
+<section class="white">
+	<h1>Shariah Advisory Service</h1>
+	<div class="row">
+		<div class="col-md-4"><img src="img/shariah-discussion.jpg" width="100%"><br><br></div>
+		<p class="col-md-8">As the demand of Shariah compliant products / services are in an increasing trend nowadays, we believe if you follow all the Islamic principles and rules in your business, your company are also deserved to be certified as a Shariah compliant company. You might be thinking of what are the benefits of having a Shariah compliant status? Well the benefits might be too long to state here, but briefly we can say that by having Shariah compliant status, you can gain customer’s trust and confident and for mutual fund, you will get subscribers from other Shariah compliant fund as well as Muslim investors. We think that is your top concern in your business – get more customers – are we right? Up to this moment, we managed to advices more than 25 Islamic unit trust and wholesale funds managed by 3 fund management companies. This is a great achievement and we believe we can provide the same services to other types of companies as our Shariah personnel are very reputable and well-known as Shariah advisers. Want to know more about our Shariah Advisory Committee members? Click here. If you are interested to our Shariah advisory services, feel free to give us your information here (link). Our Shariah officer will communicate with you then.</p>
+	</div>
+</section>
