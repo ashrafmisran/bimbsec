@@ -1,4 +1,3 @@
-<head>
 	<!-- Global Site Tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61306911-5"></script>
 	<script>
